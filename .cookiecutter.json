@@ -1,6 +1,7 @@
 {
-    "_template": "/tmp/01875c21-f7cd-4bbc-8176-81f5238e2cc0/template",
-    "access": "fp-mt",
+
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+
     "artifact_id": "latest-test",
     "component_id": "latest-test",
     "description": "latest-test",
