@@ -1,0 +1,37 @@
+{
+    "_template": "/tmp/01875c21-f7cd-4bbc-8176-81f5238e2cc0/template",
+    "access": "fp-mt",
+    "artifact_id": "latest-test",
+    "component_id": "latest-test",
+    "description": "latest-test",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/latest-test",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/latest-test",
+            "name": "latest-test",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/latest-test",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "latesttest",
+    "owner": "Product Infrastructure",
+    "repo_owner": "fp-mt-test-org",
+    "storePath": "https://github.com/fp-mt-test-org/latest-test"
+}
